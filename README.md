@@ -1,4 +1,7 @@
 # Windows-Defender-Application-Guard-Hardening
+
+ [![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) 
+
  Implement WDAG and Harden Windows Based OS'es
 
 ## Browser Extensions and Companion App:
